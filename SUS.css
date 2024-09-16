@@ -1,0 +1,84 @@
+input {
+	margin-bottom: 2px;
+	border-radius: 5px;
+	border-style: solid;
+	height: 20px;
+	width: 200px;
+	font-size: 14px;
+	padding-left: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	cursor: pointer;
+	
+}
+
+input:active {
+	cursor: text;
+}
+
+.input {
+	transition: 0.25s;
+}
+
+.input:hover {
+	font-size: 20px;
+	height: 25px;
+	width: 205px;	
+}
+
+
+
+.name6 {
+	height: 75px;
+	transition: 0.25s;
+}
+
+.name6:hover {
+	height: 85px;
+	font-size: 20px;
+}
+
+.Namebye {
+	height: 30px;
+	text-align: center;
+	margin: auto;
+	margin-left: 5px;
+	border-width: 1px;
+	background-color: lightgreen;
+	border-color: darkgreen;
+	color: darkgreen;
+	cursor: pointer;
+	transition: 0.25s;
+}
+
+.Namebye:hover {
+	font-size: 20px;
+	width: 175px;
+}
+
+
+.The {
+	display: flex;
+	background-color: lightgrey;
+	border-radius: 10px;
+	padding: 10px;
+	width: 500px;
+}
+
+.Fire {
+
+	margin: 11px;
+}
+
+.Water {
+	margin-left: 9px;
+	margin-top: 40px;
+	margin-bottom: 43px;
+}
+
+.air {
+	margin-left: 9px;
+	margin-right: 9px;
+	margin-top: 9px;
+	margin-bottom: 0px;
+}
